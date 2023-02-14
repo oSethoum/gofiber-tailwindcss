@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build":"tailwindcss --output ./public/index.css"
+  }
+}
